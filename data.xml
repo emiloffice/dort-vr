@@ -17,33 +17,31 @@
 
 	<socials>
 		<social>
-			<name>twitter.com/MyCompanyName</name>
-			<link>twitter.com/MyCompanyName</link>
+			<name>VRmultiverse</name>
+			<link>https://twitter.com/VRmultiverse</link>
 		</social>
 		<social>
-			<name>facebook.com/MyCompanyName</name>
-			<link>facebook.com/MyCompanyName</link>
-		</social>
-		<social>
-			<name>Skype</name>
-			<link>callto:MySkypeName</link>
+			<name>https://www.facebook.com/profile.php?id=100015763565274</name>
+			<link>https://www.facebook.com/profile.php?id=100015763565274</link>
 		</social>
 	</socials>
 
 	<description>	
-		We're games studio and we make games. We're also capable of editing XML files.
+		What is this game all about?
+		- Flexible strategy, ever changing tactics to counter enemies
+		In the game, there are a variety of traps for players to choose from; they only have one function, which is to kill enemies. When wearing VR and experiencing the game in person, only then can you feel the power of the traps. The variety of traps in the game is enough to make the smartest players create ever-changing designs.
+		- Relentless killing; shocking first person perspective experience
+		For a tower defense type game, the perspective of the VR brings an unprecedented thrilling experience to the players; the Goblin scout that runs straight at you, making it difficult for you to aim; while ruthless traps are killing enemies and shots are coming from crossbows, brutal, tall, aggressive barbarians just stand majestically in front of you! VR gives a different experience to tower defense games.
 	</description>
 		
+	 
 	<histories>
 		<history>
 			<header>Early history</header>
-			<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel nisi dolor. Pellentesque vitae eros velit, quis venenatis orci. Phasellus elit urna, semper ut gravida et, porta non dui. Aliquam erat volutpat. Aenean porta volutpat imperdiet. Maecenas venenatis, tellus eget vehicula vulputate, augue erat elementum quam, tincidunt laoreet magna orci et mauris. Proin porttitor pharetra nisi, accumsan sollicitudin neque varius a. Aenean ut massa ipsum, id hendrerit lacus. Maecenas posuere egestas nunc at cursus. Etiam mollis libero vel eros pulvinar aliquam. Sed vitae turpis sed nibh venenatis dictum. Sed suscipit orci justo, at sagittis ante. Sed leo nisl, ultricies in fermentum id, aliquam id dolor. Ut laoreet, felis id posuere bibendum, arcu ipsum lacinia est, eu lobortis velit enim eget mi. In ullamcorper ullamcorper enim ut gravida. Vivamus rutrum lacus mollis risus malesuada iaculis.</text>
-		</history>
-		<history>
-			<header>After that</header>
-			<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sem dui, volutpat eu adipiscing sed, rutrum aliquam lacus. Proin sollicitudin consequat dolor id dignissim. Aliquam sem turpis, sagittis lobortis viverra eget, varius vitae nunc. Proin ac lacus porttitor dui sollicitudin elementum. Nulla ut hendrerit est. Fusce vitae arcu erat, vel molestie est. Proin et placerat justo. Proin placerat arcu massa, eu blandit leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam eu lorem sed massa lobortis hendrerit vitae vel odio. Maecenas eget pulvinar tortor. Nunc vitae nisl ac odio bibendum luctus ac a leo. Suspendisse auctor elit et velit sagittis vehicula. Maecenas faucibus blandit rutrum. Duis et sem nibh. Vestibulum placerat elit et dui rhoncus accumsan.</text>
+			<text>No</text>
 		</history>
 	</histories>
+	
 		
 	<trailers>
 		<trailer>
@@ -52,8 +50,7 @@
 		</trailer>
 		<trailer>
 			<name>This one too</name>
-			<youtube>0CevOaYrYDA</youtube>
-			<vimeo>12536488</vimeo>
+			<youtube>7_fc66hinBU</youtube>
 		</trailer>
 	</trailers>
 	
@@ -78,28 +75,16 @@
 	
 	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
+			<description>Defenders Of The Realm VR Hits Steam Greenlight For Support [Updated]</description>
+			<name>Peter Graham</name>
+			<website>vrfocus</website>
+			<link>https://www.vrfocus.com/2017/04/defenders-of-the-realm-vr-hits-steam-greenlight-for-support/</link>
 		</quote>
 		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
-		</quote>
-		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
-		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
+			<description>DEFENDERS OF THE REALM VR</description>
+			<name>eBonus.gg</name>
+			<website>eBonus.gg</website>
+			<link>https://ebonus.gg/blog/defenders-of-the-realm-vr/56</link>
 		</quote>
 	</quotes>
 	
@@ -118,19 +103,10 @@
 	
 	<credits>
 		<credit>
-			<person>John Doe</person>
-			<role>Artist, Freelancer</role>
+			<person>Spark VR</person>
+			<role>Spark VR</role>
 		</credit>
-		<credit>
-			<person>Oliver Twist</person>
-			<website>www.olivertwist.com</website>
-			<role>Artist, Freelancer</role>
-		</credit>
-		<credit>
-			<person>Jane Doette</person>
-			<website>www.olivertwist.com</website>
-			<role>Music, Freelancer</role>
-		</credit>
+	
 	</credits>
 	
 	<contacts>
@@ -140,11 +116,11 @@
 		</contact>
 		<contact>
 			<name>Twitter</name>
-			<link>http://twitter.com/MyCompanyName</link>
+			<link>https://twitter.com/VRmultiverse</link>
 		</contact>
 		<contact>
 			<name>Facebook</name>
-			<link>http://facebook.com/MyCompanyName</link>
+			<link>https://www.facebook.com/profile.php?id=100015763565274</link>
 		</contact>
 		<contact>
 			<name>Web</name>
